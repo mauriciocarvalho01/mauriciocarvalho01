@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Arigó Tecnologia](https://www.arigo.com.br/)
 
-- 🌱 I’m currently learning **Design Patherns, Devops(Docker)**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Node js, Typescript, Design Patherns, Php**
+- 💬 Ask me about **Node js, Typescript, Php, Design Patherns, Rabbitmq and RPA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mauricio-carvalho-programmer/**
 
