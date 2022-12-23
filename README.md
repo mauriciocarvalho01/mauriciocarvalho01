@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Node js, Typescript, Php, Design Patherns, Rabbitmq and RPA**
+- 💬 Ask me about **Node js, Typescript, Php, Design Patherns, Queues and RPA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mauricio-carvalho-programmer/**
 
