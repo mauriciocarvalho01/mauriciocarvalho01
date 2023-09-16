@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Carvalho</h1>
 <h3 align="center">I'm a backend developer</h3>
 
-- 🔭 I’m currently working on [Arigó Tecnologia](https://www.arigo.com.br/)
+- 🔭 I’m currently working on [Pontaltech](https://www.pontaltech.com.br/)
 
 - 🌱 I’m currently learning **Cloud Computing**
 
