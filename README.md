@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mauricio Carvalho</h1>
-<h3 align="center">I'm a backend developer</h3>
+<h3 align="center">I'm a software engineer</h3>
 
 - 🔭 I’m currently working on [Pontaltech](https://www.pontaltech.com.br/)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Artificial intelligence**
 
-- 💬 Ask me about **Node js, Typescript and Python**
+- 💬 Feel free to ask me about software architecture, data science, machine learning, and much more!
 
 - 📫 How to reach me **https://https://github.com/mauriciocarvalho01**
 
